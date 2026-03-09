@@ -20,3 +20,14 @@ Practical checklists for reviewers, editors, and authors preparing manuscripts f
 Manusights provides expert pre-submission manuscript review.
 
 https://manusights.com
+
+
+## Extended resources
+
+- `checklists/editorial_triage_checklist.md`
+- `templates/reviewer_comment_bank.md`
+- `policies/reviewer_conflict_of_interest.md`
+
+## Cite this resource
+
+> Manusights. Scientific Peer Review Checklist. GitHub repository. https://github.com/Manusights/scientific-peer-review-checklist
