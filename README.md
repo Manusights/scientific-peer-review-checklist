@@ -74,3 +74,7 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 ## Cornerstone guides
 - `guides/how_to_write_high_signal_reviews.md`
 - `guides/editor_decision_consistency_guide.md`
+
+
+## Case studies and diagrams
+See `case-studies/` and `diagrams/` for worked examples and visual workflows.
