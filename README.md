@@ -49,3 +49,12 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - `handbook/reviewer/reject_with_clarity.md`
 - `handbook/editor/editor_decision_language.md`
 - `handbook/examples/high_quality_review_example.md`
+
+
+## Related Manusights Resources
+- https://github.com/Manusights/journal-impact-factor-database
+- https://github.com/Manusights/scientific-peer-review-checklist
+- https://github.com/Manusights/journal-submission-guides
+- https://github.com/Manusights/ai-generated-manuscript-detection
+- https://github.com/Manusights/scientific-writing-resources
+- https://github.com/Manusights/awesome-scientific-publishing
