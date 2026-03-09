@@ -14,3 +14,8 @@ Reviewer rewrites using the structured template:
 - editor decision made faster
 - authors understood exact revision priorities
 - rebuttal quality improved in next round
+
+## References
+- review_template.md
+- guides/how_to_write_high_signal_reviews.md
+- handbook/editor/editor_decision_language.md
