@@ -58,3 +58,14 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - https://github.com/Manusights/ai-generated-manuscript-detection
 - https://github.com/Manusights/scientific-writing-resources
 - https://github.com/Manusights/awesome-scientific-publishing
+
+
+## FAQ
+- `faq/how_many_major_comments_are_too_many.md`
+- `faq/how_to_write_a_fair_rejection.md`
+- `faq/how_to_separate_major_vs_minor_issues.md`
+- `faq/how_to_review_when_methods_are_unclear.md`
+- `faq/how_to_avoid_tone_problems_in_reviews.md`
+- `faq/how_to_evaluate_rebuttal_quality_fast.md`
+- `faq/how_to_review_statistics_when_you_are_not_a_statistician.md`
+- `faq/how_to_check_figure_claim_alignment.md`
