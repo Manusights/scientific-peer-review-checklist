@@ -1,5 +1,7 @@
 # Scientific Peer Review Checklist
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
+
 Practical checklists for reviewers, editors, and authors preparing manuscripts for submission.
 
 ## Files
@@ -31,3 +33,12 @@ https://manusights.com
 ## Cite this resource
 
 > Manusights. Scientific Peer Review Checklist. GitHub repository. https://github.com/Manusights/scientific-peer-review-checklist
+
+
+## Maintenance
+
+This repository is actively maintained. Content refreshes are planned monthly.
+
+## Contributing
+
+Suggestions are welcome through GitHub Issues and Pull Requests.
