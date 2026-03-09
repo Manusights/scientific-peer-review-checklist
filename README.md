@@ -42,3 +42,10 @@ This repository is actively maintained. Content refreshes are planned monthly.
 ## Contributing
 
 Suggestions are welcome through GitHub Issues and Pull Requests.
+
+
+## Handbook section
+- `handbook/reviewer/major_revision_framework.md`
+- `handbook/reviewer/reject_with_clarity.md`
+- `handbook/editor/editor_decision_language.md`
+- `handbook/examples/high_quality_review_example.md`
