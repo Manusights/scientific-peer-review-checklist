@@ -69,3 +69,8 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - `faq/how_to_evaluate_rebuttal_quality_fast.md`
 - `faq/how_to_review_statistics_when_you_are_not_a_statistician.md`
 - `faq/how_to_check_figure_claim_alignment.md`
+
+
+## Cornerstone guides
+- `guides/how_to_write_high_signal_reviews.md`
+- `guides/editor_decision_consistency_guide.md`
